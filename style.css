@@ -1,0 +1,17 @@
+body{
+    background-image: url('AggressiveWebbedCormorant-small.gif')
+}
+
+a{
+    color: white!important;
+}
+
+a::hover{
+    text-decoration: none!important;
+}
+
+button{
+    background-color: #4CAF50; 
+    color: black;
+    border: 2px solid #4CAF50; /* Green */
+}
